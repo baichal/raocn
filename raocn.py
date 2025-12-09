@@ -4,6 +4,7 @@ geosite:cn
 
 # === 🍎 Apple (中国内地服务 & CDN) ===
 # Apple 在中国主要由世纪互联和云上贵州运营，必须直连
+
 domain:apple.com.cn
 domain:icloud.com.cn
 domain:aaplimg.com
@@ -16,6 +17,7 @@ domain:digicert.com
 
 # === 🪟 Microsoft (中国直连部分) ===
 # 仅保留国内有节点或不被墙的服务。OneDrive网页版已剔除。
+
 domain:azure.cn
 domain:azureedge.net
 domain:bing.com
@@ -33,6 +35,7 @@ domain:visualstudio.com
 
 # === 🎮 游戏平台 (仅保留下载/CDN) ===
 # Steam/Epic 商店页面直连偶尔不稳定，但下载域名(content/assets)必须直连，否则跑不满带宽
+
 domain:steamcontent.com
 domain:steamstatic.com
 domain:csgo.wmsj.cn
@@ -44,6 +47,7 @@ domain:unity3d.com
 domain:nvidia.cn
 
 # === ☁️ 阿里云 / 阿里巴巴 ===
+
 domain:alibaba.com
 domain:alicdn.com
 domain:alikunlun.com
@@ -96,8 +100,23 @@ domain:wechat.com
 domain:wechatpay.cn
 domain:weixin.com
 domain:weiyun.com
+domain:dnspod.cn
+domain:tapd.cn
+domain:coding.net
+domain:url.cn
+domain:gtimg.cn
+domain:sogou.com
+domain:wegame.com.cn
+domain:kugou.com
+domain:kuwo.cn
+domain:qidian.com
+domain:yuewen.com
+domain:hongxiu.com
+domain:webank.com
+domain:discuz.net
 
 # === 🎵 字节跳动 (抖音/头条/飞书) ===
+
 domain:amemv.com
 domain:bdurl.net
 domain:bytecdn.com
@@ -131,8 +150,18 @@ domain:volces.com
 domain:xigua.com
 domain:zijieapi.com
 domain:zijieimg.com
+domain:retouchpics.com
+domain:faceu.com
+domain:fanqienovel.com
+domain:pipix.com
+domain:dongchedi.com
+domain:volcengine.com
+domain:oceanengine.com
+domain:jinritemai.com
+domain:picoxr.com
 
 # === 🐼 百度 ===
+
 domain:baidu.com
 domain:baidubce.com
 domain:baidupcs.com
@@ -145,6 +174,7 @@ domain:iqiyi.com
 domain:iqiyipic.com
 
 # === 🛒 京东 ===
+
 domain:360buy.com
 domain:360buyimg.com
 domain:jd.com
@@ -154,6 +184,7 @@ domain:jdwl.com
 domain:joybuy.com
 
 # === 🛍️ 美团 / 拼多多 / 唯品会 ===
+
 domain:dianping.com
 domain:meituan.com
 domain:meituan.net
@@ -165,6 +196,7 @@ domain:vip.com
 domain:vipstatic.com
 
 # === 📱 手机厂商 (华为/小米/OPPO/VIVO) ===
+
 domain:dbankcdn.com
 domain:hicloud.com
 domain:honor.com
@@ -181,7 +213,6 @@ domain:vmall.com
 domain:xiaomi.com
 domain:xiaomi.net
 domain:xiaomiyoupin.com
-
 # === 📧 网易 ===
 domain:126.com
 domain:126.net
@@ -194,6 +225,7 @@ domain:netease.com
 domain:ydstatic.com
 
 # === 🤖 国产 AI (DeepSeek/Kimi等) ===
+
 domain:chatglm.cn
 domain:deepseek.com
 domain:kimi.ai
@@ -203,6 +235,7 @@ domain:tita.com
 domain:xinghuo.xfyun.cn
 
 # === 📺 视频/直播/社交 ===
+
 domain:acfun.cn
 domain:bilibili.com
 domain:biliapi.net
@@ -231,6 +264,7 @@ domain:zhihu.com
 domain:zhimg.com
 
 # === 🎮 国产游戏厂商 ===
+
 domain:4399.com
 domain:bh3.com
 domain:hoyoverse.com
@@ -240,6 +274,7 @@ domain:taptap.cn
 domain:yuanshen.com
 
 # === 💰 银行/金融/支付 ===
+
 domain:95516.com
 domain:abchina.com
 domain:bankcomm.com
@@ -257,6 +292,7 @@ domain:unionpay.com
 domain:webank.com
 
 # === 🏛️ 运营商/公共服务 ===
+
 domain:10010.com
 domain:10086.cn
 domain:12306.cn
@@ -268,6 +304,7 @@ domain:gov.cn
 domain:xinhuanet.com
 
 # === 🏠 生活/物流/出行 ===
+
 domain:58.com
 domain:anjuke.com
 domain:beike.com
@@ -287,6 +324,7 @@ domain:ziroom.com
 domain:zto.com
 
 # === 💻 IT/云服务/软件/开发 ===
+
 domain:360.cn
 domain:360.com
 domain:afdian.net
@@ -313,13 +351,14 @@ domain:wps.cn
 domain:wps.com
 domain:xunlei.com
 domain:zhujiceping.com
-
 # === 🚗 其他外企 (中国业务) ===
+
 domain:adobe.com
 domain:adobe.io
 domain:autodesk.com
 domain:tesla.cn
 domain:tesla.com
+
 
 # === 新增去重 ===
 domain:faceu.mobi
@@ -364,7 +403,33 @@ domain:idcspy.com
 domain:bejson.com
 domain:dongaigc.com
 domain:sentyeasy.com
-domain:sentyeasy.com
+domain:haoyi.com
+domain:lianhengkj.com
+domain:njcb.com
+domain:wo116114.com
+domain:chinaunicom.cn
+domain:chinaunicom.com.cn
+domain:10010.cn
+domain:10010.net
+domain:10010.com.cn
+domain:wo.cn
+domain:wo.com.cn
+domain:cuecp.cn
+domain:chinaunicombidding.cn
+domain:chinaunicom-a.com
+domain:qd.sd.cn
+domain:air.qd.sd.cn
+domain:sina.com.cn
+domain:wocloud.cn
+domain:51callcenter.com
+domain:iguopin.com
+domain:miitjob.cn
+domain:tyut.edu.cn
+domain:jsw.com.cn
+domain:fxyf.cn
+domain:c114.com.cn
+domain:bendibao.com
+
 
 #==兜底正则==
 regexp:^.*\.cn$
