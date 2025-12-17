@@ -37,10 +37,10 @@ domain:visualstudio.com
 # Steam/Epic 商店页面直连偶尔不稳定，但下载域名(content/assets)必须直连，否则跑不满带宽
 
 domain:steamcontent.com
+domain:epicgames.com
 domain:steamstatic.com
 domain:csgo.wmsj.cn
 domain:dota2.wmsj.cn
-domain:epicgames.com
 domain:unrealengine.com
 domain:unity.cn
 domain:unity3d.com
@@ -48,6 +48,7 @@ domain:nvidia.cn
 
 # === ☁️ 阿里云 / 阿里巴巴 ===
 
+domain:aliyundrive.cloud
 domain:alibaba.com
 domain:alicdn.com
 domain:alikunlun.com
@@ -114,6 +115,12 @@ domain:yuewen.com
 domain:hongxiu.com
 domain:webank.com
 domain:discuz.net
+domain:qcloud.la
+domain:wxaurl.cn
+domain:servicewechat.com
+domain:qlogo.cn
+
+
 
 # === 🎵 字节跳动 (抖音/头条/飞书) ===
 
@@ -213,7 +220,9 @@ domain:vmall.com
 domain:xiaomi.com
 domain:xiaomi.net
 domain:xiaomiyoupin.com
+
 # === 📧 网易 ===
+
 domain:126.com
 domain:126.net
 domain:127.net
@@ -429,6 +438,26 @@ domain:jsw.com.cn
 domain:fxyf.cn
 domain:c114.com.cn
 domain:bendibao.com
+domain:kahaoquan.com
+domain:haokale.cn
+domain:haokale.com
+domain:sdht666.com
+domain:qcnet.vip
+domain:yemengstar.com
+domain:cancp.net
+domain:ttzi.cn
+domain:miaokaiyun.com
+domain:hbdrxws.com
+domain:cmccsim.com
+domain:dnschecker.cloud
+domain:ksjhaoka.com
+domain:larkoffice.com
+domain:yunhaoka.com
+domain:hbdrxws.com
+domain:dandanhou.net
+domain:dandanhou.net
+domain:dandanhou.net
+
 
 
 #==兜底正则==
